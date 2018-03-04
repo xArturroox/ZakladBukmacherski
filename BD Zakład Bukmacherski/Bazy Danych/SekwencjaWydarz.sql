@@ -1,0 +1,3 @@
+CREATE SEQUENCE dodajWydarzenie_seq
+  START WITH 10001
+  INCREMENT BY 1;
